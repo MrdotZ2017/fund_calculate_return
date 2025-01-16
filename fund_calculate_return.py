@@ -124,7 +124,7 @@ if __name__ == "__main__":
     amount = args.amount  # 每次定投金额
     day_offset = args.day_offset # 定投频率偏移
 
-    file_path=f"/Users/zhangxiangying/Downloads/fund/fund_net_values_{fund_code}.xlsx" # 文件保存路径
+    file_path=f"/Users/xxx/Downloads/fund/fund_net_values_{fund_code}.xlsx" # 文件保存路径
 
     invest_dates, freq_desc = fetch_invest_dates(start_date, end_date, freq, day_offset)  # 定投日期列表
     # 判断文件是否存在，不再重复下载
