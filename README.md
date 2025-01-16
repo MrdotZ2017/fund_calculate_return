@@ -9,4 +9,8 @@
   - --amount:每次定投金额
   - --freq:定投频率，M-每月，Q-每季度，Y-每年，W-每周
   - --day_offset:频率偏移量，频率月/季/年从月/季/年初开始计算，频率周从周一开始计算
+
+### 返回结果
+<img width="736" alt="image" src="https://github.com/user-attachments/assets/3931fde9-adfb-4f53-b9c7-9bcdbc18d9ac" />
+
   
